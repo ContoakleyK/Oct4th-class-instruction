@@ -9,6 +9,7 @@ This repo has since been used to store notes on the # DataCamp modules to learn 
 
 * Pandas 
 
-** Pandas
+# Pandas
 
-% Pandas
+### Pandas
+

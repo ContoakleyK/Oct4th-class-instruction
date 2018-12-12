@@ -7,9 +7,14 @@ This repo has since been used to store notes on the # DataCamp modules to learn 
 
 ## Pandas
 
-* Pandas 
+* This is the double ## format
 
 # Pandas
+- This is the single # format
 
 ### Pandas
+
+$ This is the triple ### format (with a $)
+
+
 
